@@ -5,9 +5,23 @@
 }
 .debug .site_header > .row {
   height: 100px;
-  background-color: #2c3e50;
+}
+.debug .start > .row {
+  height: 300px;
 }
 /* header */
 .site_header {
   color: #ffffff;
+}
+.site_header > .row {
+  background-color: #2c3e50;
+}
+/* main */
+
+/* start */
+.start > .row {
+  background-color: #1abc9c;
+}
+.start img {
+  height: 150px;
 }
