@@ -1,0 +1,13 @@
+/* debug */
+.debug .container {
+  background-color: antiquewhite;
+  /* height: 900px; */
+}
+.debug .site_header > .row {
+  height: 100px;
+  background-color: #2c3e50;
+}
+/* header */
+.site_header {
+  color: #ffffff;
+}
