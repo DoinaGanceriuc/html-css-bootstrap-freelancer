@@ -9,7 +9,24 @@
 .debug .start > .row {
   height: 300px;
 }
+.debug .site_footer > .row {
+  height: 100px;
+}
+/* utility */
+.pb_6 {
+  padding-bottom: 5rem;
+}
+.btn_green {
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+.border {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}
+
 /* header */
+
 .site_header {
   background-color: #2c3e50;
   color: #ffffff;
@@ -24,11 +41,12 @@
 .start img {
   height: 150px;
 }
+
 /* portfoglio */
-.portfoglio {
+/* .portfoglio {
   padding: 1rem 0;
-}
-.portfoglio_container {
+} */
+.secondary_container {
   width: 80%;
   margin: auto;
 }
