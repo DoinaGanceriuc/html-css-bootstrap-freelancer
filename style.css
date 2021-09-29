@@ -38,3 +38,12 @@
 .portfoglio_container > .row {
   padding-bottom: 1rem;
 }
+/* about */
+.about {
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+.about_container {
+  width: 70%;
+  margin: auto;
+}
