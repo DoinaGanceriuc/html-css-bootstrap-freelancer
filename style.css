@@ -52,6 +52,16 @@ label {
 .fs_6 {
   font-size: small;
 }
+.plus_hidden {
+  width: 58%;
+  height: 80%;
+  border-radius: 75%;
+  color: #ffffff;
+  background-color: transparent;
+}
+.bg_green {
+  background: #559383cc;
+}
 /*************
 header
 *************/
