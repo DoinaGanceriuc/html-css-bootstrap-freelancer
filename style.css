@@ -52,16 +52,19 @@ label {
 .fs_6 {
   font-size: small;
 }
+
 .plus_hidden {
-  width: 58%;
-  height: 80%;
-  border-radius: 75%;
+  visibility: hidden;
+  width: 100%;
+  height: 100%;
   color: #ffffff;
-  background-color: transparent;
+  background-color: rgba(26, 188, 156, 0.7);
 }
-.bg_green {
-  background: #559383cc;
+.plus_hover:hover .plus_hidden {
+  visibility: visible;
+  cursor: pointer;
 }
+
 /*************
 header
 *************/
