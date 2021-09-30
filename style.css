@@ -27,6 +27,16 @@
   border: 1px solid #ffffff;
   color: #ffffff;
 }
+.star::before,
+.star::after {
+  content: "";
+  display: block;
+  width: 10%;
+  height: 3px;
+  background-color: #ffffff;
+  margin: 0.5rem;
+  border-radius: 1rem;
+}
 
 /*************
 header
@@ -49,7 +59,7 @@ main
   color: #ffffff;
 }
 .start img {
-  height: 150px;
+  height: 200px;
 }
 /* portfoglio */
 .portfoglio img {
